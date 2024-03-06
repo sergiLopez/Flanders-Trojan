@@ -5,7 +5,12 @@
 ## This project is for academic purposes only. 
 The methods used within this project should not be utilized for illegal or unethical activities. Please use responsibly!
 
-![trojanpicture](Flanders-Trojan.png)
+
+
+<div align="center">
+  <img src="Flanders-Trojan.png" width="40%" />
+</div>
+
 
 </div>
 
